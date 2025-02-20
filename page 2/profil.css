@@ -90,29 +90,33 @@
 }
 /* BERANDA END */
 
+/* PROFIL */
+.judul3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 32rem;
+    top: 70rem;
+}
 
-.fotoberanda {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 75vh; /* Menyesuaikan tinggi wadah */
-  }
-  
-  .fotoberanda img {
-    width: auto; /* Menyesuaikan ukuran gambar */
-    height: auto;
-  }
-   
-  .judul1 {
-    text-align: center;
-  }
-   
-  .judul2 {
-    text-align: center;
-  }
+.g2 {
+  position: absolute;
+  top: 85rem;
+  left: 28rem;
+}
 
+<<<<<<< HEAD
   .k1 
  
 
 
   
+=======
+.judul4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #727D73;
+  position: absolute;
+  left: 36rem;
+  top: 130rem;
+}
+>>>>>>> 1fc89e9a1a4cd4f777089966faae3a2b08e47323
