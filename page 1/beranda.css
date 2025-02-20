@@ -47,7 +47,7 @@
     position: absolute;
     width: 100%;
     padding: 10px;
-    left: 45rem;
+    left: 55rem;
     top: 1rem;
   }
   
@@ -75,7 +75,7 @@
     color: #F0F0D7;
     position: absolute;
     top: 25rem;
-    left: 35rem;
+    left: 38rem;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -86,7 +86,7 @@
     font-family: Arial, Helvetica, sans-serif;
     position: absolute;
     top: 30rem;
-    left: 28rem;
+    left: 31rem;
 }
 /* BERANDA END */
 
@@ -94,7 +94,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 28rem;
+    left: 30rem;
     top: 70rem;
 }
 
@@ -106,7 +106,7 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 80rem;
-    left: 30rem;
+    left: 35rem;
 }
 
 .k2 {
@@ -117,7 +117,7 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 80rem;
-    left: 2rem;
+    left: 5rem;
 }
 
 .k3 {
@@ -128,13 +128,13 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 80rem;
-    left: 58rem;
+    left: 65rem;
 }
 
 .g2 img{
     position: absolute;
     top: 1284px;
-    left: 485px;
+    left: 565px;
     border-radius: 6px;
 }
 
@@ -143,7 +143,7 @@
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     top: 35rem;
-    left: 37rem;
+    left: 42rem;
 }
 
 .g2 h3{
@@ -152,13 +152,13 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     top: 38rem;
-    left: 32rem;
+    left: 36rem;
 }
 
 .g3 img {
     position: absolute;
     top: 1284px;
-    left: 37px;
+    left: 85px;
     border-radius: 6px;
 }
 
@@ -167,7 +167,7 @@
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     top: 20rem;
-    left: 8rem;
+    left: 11rem;
  }
 
  .g3 h3 {
@@ -176,13 +176,13 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     top: 23rem;
-    left: 3rem;
+    left: 6rem;
  }
 
 .g4 img {
     position: absolute;
     border-radius: 6px;
-    left: 933px;
+    left: 1045px;
     top: 1284px;
 }
 
@@ -191,7 +191,7 @@
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     top: 6rem;
-    left: 65rem;
+    left: 72rem;
 }
 
 .g4 h3 {
@@ -200,7 +200,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     top: 9rem;
-    left: 59rem;
+    left: 66rem;
 }
 
 .judul4 {
@@ -212,20 +212,62 @@
 }
 
 .k4 {
-    width: 650px;
+    width: 950px;
     height: 200px;
     border-radius: 10px;
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
     top: 140rem;
-    left: 25rem;
+    left: 16rem;
 }
 
 .buletin {
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 12px;
     position: absolute;
-    top: 50rem;
+    top: 140rem;
+    left: 18rem;
+}
+
+.buletin1 {
+    position: absolute;
+    top: 165rem;
+    left: 5rem;
+    border-radius: 10px;
+}
+
+.buletin1 h6 {
+    color: #727D73;
+    position: absolute;
+    top: 24rem;
+    left: 1rem;
+}
+
+.buletin2 {
+    position: absolute;
+    top: 165rem;
+    left: 35rem;
+    border-radius: 10px;
+}
+
+.buletin3 {
+    position: absolute;
+    top: 165rem;
+    left: 65rem;
+    border-radius: 10px;
+}
+
+.buletin4 {
+    position: absolute;
+    top: 200rem;
+    left: 18rem;
+    border-radius: 10px;
+}
+
+.buletin5 {
+    position: absolute;
+    top: 200rem;
+    left: 52rem;
 }
