@@ -1,0 +1,24 @@
+.footer {
+    background-color: #727D73;
+    Width: 1458;
+    Height: 395px;
+}
+
+.logo{
+    position: relative;
+    top: 20px;
+    left: 2rem;
+}
+
+.Judul {
+    position: absolute;
+    top: 15px;
+    left: 4rem;
+    font-size: 30px;
+}
+
+.Alamat{
+    position: absolute;
+    top:5px
+    left: 4rem;
+}
