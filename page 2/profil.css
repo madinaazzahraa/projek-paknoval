@@ -112,3 +112,25 @@
   left: 36rem;
   top: 130rem;
 }
+
+.k1 {
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 149rem;
+    left: 35rem;
+}
+
+.g3 img{
+    position: absolute;
+    top: 140rem;
+    left: 41rem;
+}
+
+.g3 h3 {
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
