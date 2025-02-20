@@ -90,50 +90,58 @@
 }
 /* BERANDA END */
 
+/* PROFIL */
+.judul3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 32rem;
+    top: 70rem;
+}
 
-.fotoberanda {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 75vh; /* Menyesuaikan tinggi wadah */
-  }
-  
-  .fotoberanda img {
-    width: auto; /* Menyesuaikan ukuran gambar */
-    height: auto;
-  }
-   
-  .judul1 {
-    text-align: center;
-  }
-   
-  .judul2 {
-    text-align: center;
-  }
+.g2 {
+  position: absolute;
+  top: 85rem;
+  left: 28rem;
+}
 
-  .k1 {
-    width: 397px;
-    height: 155px;
-    border-radius: 10px;
-    border: solid #727D73;
-    background-color: #FFFFFF;
-    position: 30;
-    top: 40rem;
-    left: 40rem;
-  }
-
-  .k2 {
-    width: 397px;
-    height: 155px;
-    border-radius: 10px;
-    border: solid #727d73;
-    background-color: #FFFFFF;
-    position: 30;
-    top: 40rem ;
-    left: 40rem;
-  }
+<<<<<<< HEAD
+  .k1 
  
 
 
   
-   
+=======
+.judul4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #727D73;
+  position: absolute;
+  left: 36rem;
+  top: 130rem;
+}
+<<<<<<< HEAD
+
+.k1 {
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 149rem;
+    left: 35rem;
+}
+
+.g3 img{
+    position: absolute;
+    top: 140rem;
+    left: 41rem;
+}
+
+.g3 h3 {
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+=======
+>>>>>>> 1fc89e9a1a4cd4f777089966faae3a2b08e47323
+>>>>>>> 6eae3b3baa44e79bcc6b71b6cc09662261f3f0cc
