@@ -87,3 +87,36 @@
     top: 30rem;
     left: 31rem;
 }
+
+.k1 {
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 80rem;
+    left: 35rem;
+}
+
+.k2 {
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 80rem;
+    left: 5rem;
+}
+
+.k3 {
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 80rem;
+    left: 65rem;
+}
