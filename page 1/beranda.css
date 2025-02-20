@@ -2,7 +2,8 @@
 .back-logo {
     background-color: #727D73;
     width: 1440;
-    height: 100px; 
+    height: 100px;
+    padding: 15px;
 }
 
 .logo {
@@ -245,11 +246,32 @@
     left: 1rem;
 }
 
+.buletin1 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 4rem;
+}
+
 .buletin2 {
     position: absolute;
     top: 165rem;
     left: 35rem;
     border-radius: 10px;
+}
+
+.buletin2 h6 {
+    color: #727D73;
+    position: absolute;
+    top: 24rem;
+    left: 1rem;
+}
+
+.buletin2 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 5rem;
 }
 
 .buletin3 {
@@ -259,6 +281,20 @@
     border-radius: 10px;
 }
 
+.buletin3 h6 {
+    color: #727D73;
+    position: absolute;
+    top: 24rem;
+    left: 1rem;
+}
+
+.buletin3 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 3rem;
+}
+
 .buletin4 {
     position: absolute;
     top: 200rem;
@@ -266,8 +302,35 @@
     border-radius: 10px;
 }
 
+.buletin4 h6 {
+    color: #727D73;
+    position: absolute;
+    top: 24rem;
+    left: 1rem;
+}
+
+.buletin4 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 1rem;
+}
 .buletin5 {
     position: absolute;
     top: 200rem;
     left: 52rem;
+}
+
+.buletin5 h6 {
+    color: #727D73;
+    position: absolute;
+    top: 24rem;
+    left: 1rem;
+}
+
+.buletin5 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 1rem;
 }
