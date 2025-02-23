@@ -59,8 +59,14 @@
 .anggota {
     position: absolute;
     top: 5rem;
-    left: 30.5rem;
+    left: 30.8rem;
 
+}
+
+.Copyright {
+    position: absolute;
+    top: 22rem;
+    left: 30rem;
 }
 /* .footer {
     position: absolute;
