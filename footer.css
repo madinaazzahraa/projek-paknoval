@@ -1,0 +1,118 @@
+.body {
+    background-color: #727D73;
+    width: 100%;
+    height: 395px;
+}
+.maps {
+    position: absolute;
+    top: 3.5rem;
+    left: 48rem;
+}
+
+.logo img {
+    position: absolute;
+    top: 1rem;
+    left: 1.52rem;
+}
+
+.logo h1 {
+    position: absolute;
+    top: 0.8rem;
+    left: 6rem;
+}
+.alamat {
+    position: absolute;
+    top: 5rem;
+    left: 5.8rem;
+}
+
+.alamat h5 {
+    position: absolute;
+    top: 7rem;
+    left: 1rem;
+}
+
+.icon img {
+    position: absolute;
+    top: 15rem;
+    left: 6rem;
+}
+
+.icon h5 {
+    position: absolute;
+    top: 13.8rem;
+    left: 8rem;
+}
+
+.icon2 img {
+    position: absolute;
+    top: 17rem;
+    left: 5.8rem;
+}
+
+.icon2 h5 {
+    position: absolute;
+    top: 15.9rem;
+    left: 8rem;
+}
+
+.anggota {
+    position: absolute;
+    top: 5rem;
+    left: 30.8rem;
+
+}
+
+.Copyright {
+    position: absolute;
+    top: 22rem;
+    left: 30rem;
+}
+/* .footer {
+    position: absolute;
+    Height: 395px;
+    Width: 1458;
+    background: #727D73;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.logo{
+    position: absolute;
+    top: 30px;
+    left: 5rem;
+}
+
+.Judul {
+    position: absolute;
+    top: 20px;
+    left: 5rem;
+    font-size: 30px;
+}
+
+.Alamat {
+    position: absolute;
+    top:20px
+    left: 15rem;
+}
+
+.Lokasi {
+    left: 5rem;
+}
+
+.icons {
+    margin-bottom: 1.5rem;
+}
+
+.Maps {
+    position: absolute ;
+    top: 52px;
+    left: 45rem;
+}
+
+.footer-menu {
+    position: absolute;
+    left: 10rem;
+ 
+} */
