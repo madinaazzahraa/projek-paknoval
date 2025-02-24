@@ -104,6 +104,10 @@
   top: 80rem;
   left: 27rem;
 }
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> edf679c035bfa41d54bc2fc9691582dca913b8dd
 
 .judul4 {
   font-family: Arial, Helvetica, sans-serif;
@@ -112,6 +116,7 @@
   left: 35rem;
   top: 120rem;
 }
+<<<<<<< HEAD
 
 .k1 {
   width: 350px;
@@ -340,3 +345,28 @@
 }
 
 
+=======
+<<<<<<< HEAD
+
+.k1 {
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 149rem;
+    left: 35rem;
+}
+
+.g3 img{
+    position: absolute;
+    top: 140rem;
+    left: 41rem;
+}
+
+.g3 h3 {
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+>>>>>>> edf679c035bfa41d54bc2fc9691582dca913b8dd

@@ -161,7 +161,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 56rem;
+    left: 58rem;
     top: 107rem;
     font-size:18px
 }
@@ -176,7 +176,7 @@
 
 .g3 img{
     position: absolute;
-    top: 1444px;
+    top: 1445px;
     left: 885px;
     border-radius: 6px;
 }
@@ -190,14 +190,7 @@
     font-size: 14px;
 }
 
-.g3 h2{
-    color: #727D73;
-    font-family: Arial, Helvetica, sans-serif;
-    position: relative;
-    top: 26rem;
-    left: 55rem;
-    font-size: 14px;
-}
+
 
 .k4{
     width: 390px;
@@ -231,6 +224,187 @@
     position: relative;
     top: 64rem;
     left: 6rem;
+    font-size: 14px;   
+}
+
+.k5{
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 140rem;
+    left: 55rem;
+}
+
+.judul8{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 57rem;
+    top: 157rem;
+    font-size:18px;   
+}
+
+.g5 img{
+    position: absolute;
+    top: 2244px;
+    left: 885px;
+    border-radius: 6px;
+}
+
+.g5 h2{
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 57rem;
+    left: 55rem;
+    font-size: 14px;   
+}
+
+.k6{
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 189rem;
+    left:6rem;
+}
+
+.judul9{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 15rem;
+    top: 206rem;
+    font-size:18px;   
+}
+
+.g6 img{
+    position: absolute;
+    top: 3024px;
+    left: 101px;
+    border-radius: 6px;
+}
+
+.g6 h2{
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 95rem;
+    left: 6rem;
+    font-size: 14px;   
+}
+
+
+.judul10{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 59rem;
+    top: 206rem;
+    font-size:18px;   
+}
+
+.k7{
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 189rem;
+    left: 55rem;
+}
+
+.g7 img{
+    position: absolute;
+    top: 3024px;
+    left: 885px;
+    border-radius: 6px;
+}
+
+.g7 h2{
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 88rem;
+    left: 55rem;
+    font-size: 14px;   
+}
+
+.k8{
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 236rem;
+    left:6rem;
+}
+
+.judul11{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 12rem;
+    top: 253rem;
+    font-size:18px;   
+}
+
+.g8 img{
+    position: absolute;
+    top: 3775px;
+    left: 101px;
+    border-radius: 6px;
+}
+
+.g8 h2{
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 128rem;
+    left: 6rem;
+    font-size: 14px;   
+}
+
+.k9{
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 236rem;
+    left:55rem;
+}    
+
+.judul12{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 58rem;
+    top: 253rem;
+    font-size:18px;   
+}
+
+.g9 img{
+    position: absolute;
+    top: 3775px;
+    left: 885px;
+    border-radius: 6px;
+}
+
+.g9 h2{
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 118rem;
+    left: 56rem;
     font-size: 14px;   
 }
 
