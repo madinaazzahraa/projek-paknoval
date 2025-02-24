@@ -1,4 +1,8 @@
 /* BERANDA */
+body {
+    width: auto;
+    height: 100vh;
+}
 .back-logo {
     background-color: #727D73;
     width: 1440;

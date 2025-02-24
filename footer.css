@@ -1,3 +1,5 @@
+/* FOOTER */
+
 .body {
     background-color: #727D73;
     width: 100%;
@@ -17,7 +19,7 @@
 
 .logo h1 {
     position: absolute;
-    top: 0.8rem;
+    top: 0.7rem;
     left: 6rem;
 }
 .alamat {
@@ -68,51 +70,5 @@
     top: 22rem;
     left: 30rem;
 }
-/* .footer {
-    position: absolute;
-    Height: 395px;
-    Width: 1458;
-    background: #727D73;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}
 
-.logo{
-    position: absolute;
-    top: 30px;
-    left: 5rem;
-}
-
-.Judul {
-    position: absolute;
-    top: 20px;
-    left: 5rem;
-    font-size: 30px;
-}
-
-.Alamat {
-    position: absolute;
-    top:20px
-    left: 15rem;
-}
-
-.Lokasi {
-    left: 5rem;
-}
-
-.icons {
-    margin-bottom: 1.5rem;
-}
-
-.Maps {
-    position: absolute ;
-    top: 52px;
-    left: 45rem;
-}
-
-.footer-menu {
-    position: absolute;
-    left: 10rem;
- 
-} */
+/* FOOTER END */
