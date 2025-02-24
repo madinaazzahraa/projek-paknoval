@@ -3,27 +3,26 @@
     background-color: #727D73;
     width: 1440;
     height: 100px;
-    padding: 15px;
 }
 
 .logo {
     position: absolute;
-    top: 18px;
+    top: 1.3rem;
 }
 
 .h2-logo {
     color: #F0F0D7;
     position: absolute;
     padding: 20px;
-    left: 50px;
-    top: -5px;
+    top: 0rem;
+    left: 3rem;
 }
 
 .navbar {
     background-color: #AAB99A;
     width: 1440;
     height: 50px;
-    position: relative;
+    position: relative ;
     top: -30px;
 }
 
@@ -143,7 +142,7 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 35rem;
+    top: 30rem;
     left: 42rem;
 }
 
@@ -152,7 +151,7 @@
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    top: 38rem;
+    top: 32rem;
     left: 36rem;
 }
 
@@ -167,7 +166,7 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 20rem;
+    top: 15rem;
     left: 11rem;
  }
 
@@ -176,7 +175,7 @@
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    top: 23rem;
+    top: 17rem;
     left: 6rem;
  }
 
@@ -191,7 +190,7 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 6rem;
+    top: 1rem;
     left: 72rem;
 }
 
@@ -200,7 +199,7 @@
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    top: 9rem;
+    top: 3rem;
     left: 66rem;
 }
 
