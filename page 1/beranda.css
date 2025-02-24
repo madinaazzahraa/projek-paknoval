@@ -71,9 +71,9 @@ body {
   }  
 
 .g1{
-    position: relative;
+    position: absolute;
     width: 100%;
-    top: -2rem;
+    top: 9rem;
 }
 
 .judul {
