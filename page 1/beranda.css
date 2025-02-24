@@ -92,7 +92,6 @@ body {
     left: 38rem;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
-    border: 5px solid #727D73;
 }
 
 .judul2 {
@@ -157,7 +156,7 @@ body {
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 82rem;
+    top: 86rem;
     left: 42rem;
 }
 
@@ -166,7 +165,7 @@ body {
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    top: 8rem;
+    top: 87rem;
     left: 36rem;
 }
 
@@ -181,8 +180,8 @@ body {
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 67rem;
-    left: 11rem;
+    top: 71rem;
+    left: 12rem;
  }
 
  .g3 h3 {
@@ -205,7 +204,7 @@ body {
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 53rem;
+    top: 56.5rem;
     left: 72rem;
 }
 
@@ -264,7 +263,8 @@ body {
     color: #727D73;
     position: absolute;
     top: 27rem;
-    left: 4rem;
+    left: 3rem;
+    text-align: center;
 }
 
 .buletin2 {
@@ -306,7 +306,8 @@ body {
     color: #727D73;
     position: absolute;
     top: 27rem;
-    left: 3rem;
+    left: 4rem;
+    text-align: center;
 }
 
 .buletin4 {
@@ -327,7 +328,8 @@ body {
     color: #727D73;
     position: absolute;
     top: 27rem;
-    left: 1rem;
+    left: 3rem;
+    text-align: center;
 }
 .buletin5 {
     position: absolute;
@@ -346,5 +348,6 @@ body {
     color: #727D73;
     position: absolute;
     top: 27rem;
-    left: 1rem;
+    left: 3rem;
+    text-align: center;
 }
