@@ -3,7 +3,6 @@
     background-color: #727D73;
     width: 1440;
     height: 100px;
-    padding: 15px;
 }
 
 .logo {
@@ -14,9 +13,8 @@
 .h2-logo {
     color: #F0F0D7;
     position: absolute;
-    padding: 20px;
-    left: 6px;
-    top: -5px;
+    top: 1rem;
+    left: 5rem;
 }
 
 .navbar {
