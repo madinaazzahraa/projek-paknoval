@@ -104,10 +104,6 @@
   top: 80rem;
   left: 27rem;
 }
-<<<<<<< HEAD
-=======
- 
->>>>>>> edf679c035bfa41d54bc2fc9691582dca913b8dd
 
 .judul4 {
   font-family: Arial, Helvetica, sans-serif;
@@ -116,8 +112,7 @@
   left: 35rem;
   top: 120rem;
 }
-<<<<<<< HEAD
-
+                  
 .k1 {
   width: 350px;
   height: 120px;
@@ -329,44 +324,62 @@
 }
 
 .tugas1 {
+  position: relative;
+  top: -47rem;
+  
+}
+
+.y {
   font-family: Arial, Helvetica, sans-serif;
   color: #727D73;
   position: absolute;
-  top: 250rem;
-  left: 5rem;
+  top: 266rem;
+  left: 9rem;
 }
+
+.tugas2 {
+  position: relative;
+  top: 10rem;
  
-.tugas1 h4 {
- font-family: Arial, Helvetica, sans-serif;
- color: #727D73;
- position: absolute;
- top: 100rem;
- left: 5rem;
+}
+
+.tugas3 {
+  position: relative;
+  top: 6rem;
 }
 
 
-=======
-<<<<<<< HEAD
-
-.k1 {
-    width: 300px;
-    height: 100px;
-    border-radius: 10px;
-    border: 5px solid #727D73;
-    background-color: #FFFFFF;
-    position: absolute;
-    top: 149rem;
-    left: 35rem;
+.tugas4 {
+  position: relative;
+  top: 6rem;
 }
 
-.g3 img{
-    position: absolute;
-    top: 140rem;
-    left: 41rem;
+.tugas5 {
+  position: relative;
+  top: -22rem;
+  left: 48rem;
 }
 
-.g3 h3 {
-    color: #727D73;
-    font-family: Arial, Helvetica, sans-serif;
+.y1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #727D73;
+  position: absolute;
+  top: 265rem;
+  left: 9rem;
 }
->>>>>>> edf679c035bfa41d54bc2fc9691582dca913b8dd
+
+.tugas6 {
+  position: relative;
+  top: 10rem;
+
+}
+
+.y2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #727D73;
+  position: absolute;
+  top: 266rem;
+  left: 9rem;
+}
+
+
