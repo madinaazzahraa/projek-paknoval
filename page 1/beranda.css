@@ -1,4 +1,9 @@
 /* BERANDA */
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .back-logo {
     background-color: #727D73;
     width: 1440;
@@ -6,17 +11,13 @@
     padding: 15px;
 }
 
-.logo {
+.back-logo img {
     position: absolute;
     top: 18px;
 }
 
-.h2-logo {
+.back-logo h2 {
     color: #F0F0D7;
-    position: absolute;
-    padding: 20px;
-    left: 20px;
-    top: -5px;
 }
 
 .navbar {
@@ -42,32 +43,32 @@
     font-family: Arial, Helvetica, sans-serif;
  }
  
- #jadwal-sholat {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    grid-gap: 1rem;
-    position: absolute;
-    width: 100%;
-    padding: 10px;
-    left: 45rem;
-    top: 1rem;
-  }
-  
-.jadwal-sholat { 
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    justify-content: center;
-    align-items: center;
-    padding: 5px;
-    background-color: #AAB99A;
-    backdrop-filter: blur(10px);
-    color: #334600;
-    border-radius: 5px;
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-  }  
-
+ /* #jadwal-sholat { */
+    /* display: grid; */
+    /* grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); */
+    /* grid-gap: 1rem; */
+    /* position: absolute; */
+    /* width: 100%; */
+    /* padding: 10px; */
+    /* left: 45rem; */
+    /* top: 1rem; */
+  /* } */
+/*    */
+/* .jadwal-sholat {  */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* gap: 0.3rem; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* padding: 5px; */
+    /* background-color: #AAB99A; */
+    /* backdrop-filter: blur(10px); */
+    /* color: #334600; */
+    /* border-radius: 5px; */
+    /* font-size: 14px; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+  /* }   */
+/*  */
 .g1{
     position: relative;
     top: -2rem;
@@ -343,4 +344,43 @@
     position: absolute;
     top: 27rem;
     left: 1rem;
+}
+
+
+.wadah-kartu {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kartu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    height: 60vh;
+    width: 25vw;
+    box-shadow: 10px 10px 10px #727D73;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 25vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.card h3 {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card p {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
 }
