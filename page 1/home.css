@@ -40,7 +40,7 @@
 .li-navbar {
     list-style-type: none;
     padding: 100px;
-    margin: 60px;
+    
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
  }
@@ -127,12 +127,11 @@
     font-family: Arial, Helvetica, sans-serif;
  }
 
- .judul4 {
+ .judulpapat {
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
-    position: absolute;
-    top: 125rem;
-    left: 41rem;
+    
+    
  }
 
  .buletin1 {
@@ -143,7 +142,7 @@
  }
 
  .buletin1 h6 {
-    color: #727D73;
+    color: hsl(125, 5%, 47%);
     position: absolute;
 }
 
