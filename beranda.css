@@ -8,7 +8,6 @@
     background-color: #727D73;
     width: 1440;
     height: 100px;
-    padding: 15px;
 }
 
 .back-logo img {
@@ -22,6 +21,12 @@
  }
 .back-logo h2 {
     color: #F0F0D7;
+<<<<<<< HEAD
+    position: absolute;
+    top: 1rem;
+    left: 5rem;
+=======
+>>>>>>> 5462bb2264ac5ec91d2b24a4fc5d46c43e7a7c01
 }
 
 .navbar {
