@@ -1,8 +1,14 @@
 /* BERANDA */
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .back-logo {
     background-color: #727D73;
     width: 1440;
-    height: 100px; 
+    height: 100px;
+    padding: 15px;
 }
 
 .logo {
@@ -10,12 +16,11 @@
     top: 18px;
 }
 
-.h2-logo {
+.tulisan {
     color: #F0F0D7;
     position: absolute;
-    padding: 20px;
-    left: 50px;
-    top: -5px;
+    left: 4rem;
+    top: 2rem;
 }
 
 .navbar {
@@ -37,57 +42,42 @@
     list-style-type: none;
     padding: 100px;
     margin: 60px;
-    color: #334600;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
  }
 
- #jadwal-sholat {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    grid-gap: 1rem;
+ .g1 {
     position: absolute;
-    width: 100%;
-    padding: 10px;
-    left: 45rem;
-    top: 1rem;
-  }
+    top: 9rem;
+ }
 
-  .jadwal-sholat {
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    justify-content: center;
-    align-items: center;
-    padding: 5px;
-    background-color: #AAB99A;
-    backdrop-filter: blur(10px);
-    color: #334600;
-    border-radius: 5px;
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-  }  
-
-  .g1{
-    position: relative;
-    top: -2rem;
-}
-
-.judul {
+ .judul {
     color: #F0F0D7;
     position: absolute;
-    top: 25rem;
+    top: 29rem;
     left: 38rem;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
-}
+ }
 
-.judul2 {
+ .judul2 {
     color: #F0F0D7;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
     position: absolute;
-    top: 30rem;
-    left: 30rem;
-}
+    top: 34rem;
+    left: 31rem;
+ }
+
+ .tulisan2 {
+    position: absolute;
+    text-align: center;
+    color: #FFFFFF;
+    top: 41rem;
+    left: 25rem;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+/* BERANDA END */
 
 .judul3 {
     font-family: Arial, Helvetica, sans-serif;
