@@ -223,8 +223,8 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 115rem;
-    left: 65rem;
+    top: 160rem;
+    left: 5rem;
 }
 
 .k5 img {
@@ -234,18 +234,18 @@
     border-radius: 5px;
 }
 
-.k4 h2 {
+.k5 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 4rem;
-    top: 18rem;
+    left: 6rem;
+    top: 17rem;
 }
 
 .k5 h4 {
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    top: 25rem;
+    top: 23rem;
     left: 2rem;
 }

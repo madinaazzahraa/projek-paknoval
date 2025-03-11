@@ -95,8 +95,8 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 32rem;
-    top: 70rem;
+    left: 33rem;
+    top: 80rem;
 }
 
 .g2 {
@@ -112,18 +112,6 @@
   position: absolute;
   left: 36rem;
   top: 130rem;
-}
-<<<<<<< HEAD
-
-.k1 {
-    width: 300px;
-    height: 100px;
-    border-radius: 10px;
-    border: 5px solid #727D73;
-    background-color: #FFFFFF;
-    position: absolute;
-    top: 149rem;
-    left: 35rem;
 }
 
 .g3 img{
