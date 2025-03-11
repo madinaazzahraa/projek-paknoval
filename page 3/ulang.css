@@ -69,10 +69,10 @@
  }
 
  .header h1 {
-   color: #FFFFFF;
-   font-size: 80px;
-   font-family: Arial, Helvetica, sans-serif;
-}
+    color: #FFFFFF;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
 
  .header p {
     color: #FFFFFF;
@@ -87,7 +87,7 @@
  }
 
  .card {
-    height: 65vh;
+    height: 75vh;
     width: 25vw;
     box-shadow: 10px 10px 10px #727D73;
     margin: 50px;
@@ -104,6 +104,7 @@
     text-align: center;
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
  }
 
  .buletin {

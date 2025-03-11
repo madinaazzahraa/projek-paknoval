@@ -229,14 +229,22 @@
     color: #727D73;
     position: absolute;
     left: 6rem;
+<<<<<<< HEAD
+    top: 17rem;
+=======
     top: 18rem;
+>>>>>>> bdbe0e082867b915d366e227be3749cff54434fc
 }
 
 .k5 h4 {
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
+<<<<<<< HEAD
+    top: 23rem;
+=======
     top: 22rem;
+>>>>>>> bdbe0e082867b915d366e227be3749cff54434fc
     left: 2rem;
 }
 
