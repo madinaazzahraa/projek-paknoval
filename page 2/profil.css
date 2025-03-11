@@ -1,84 +1,85 @@
 /* BERANDA */
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .back-logo {
-  background-color: #727D73;
-  width: 1440;
-  height: 100px;
-  padding: 15px;
+    background-color: #727D73;
+    width: 1440;
+    height: 100px;
+    padding: 15px;
 }
 
 .logo {
-  position: absolute;
-  top: 18px;
+    position: absolute;
+    top: 18px;
 }
 
 .tulisan {
-  color: #F0F0D7;
-  position: absolute;
-  left: 4rem;
-  top: 2rem;
+    color: #F0F0D7;
+    position: absolute;
+    left: 4rem;
+    top: 2rem;
 }
 
 .navbar {
-  background-color: #AAB99A;
-  width: 1440;
-  height: 50px;
-  position: relative;
-  top: -30px;
+    background-color: #AAB99A;
+    width: 1440;
+    height: 50px;
+    position: relative;
 }
 
 .ul-navbar {
-  display: flex;
-  height: 55px;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
 }
 
 .li-navbar {
-  list-style-type: none;
-  padding: 100px;
-  margin: 60px;
-  color: #727D73;
-  font-family: Arial, Helvetica, sans-serif;
-}
+    list-style-type: none;
+    padding: 100px;
+    
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+ }
 
-.g1 {
-  position: absolute;
-  top: 9rem;
-}
+ .beranda {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+ }
 
-.judul {
-  color: #F0F0D7;
-  position: absolute;
-  top: 29rem;
-  left: 38rem;
-  font-size: 80px;
-  font-family: Arial, Helvetica, sans-serif;
-}
+ .beranda img {
+    height: auto;
+    width: 100%;
+ }
 
-.judul2 {
-  color: #F0F0D7;
-  font-size: 80px;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  top: 34rem;
-  left: 31rem;
-}
+ .beranda .header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
 
-.tulisan2 {
-  position: absolute;
-  text-align: center;
-  color: #FFFFFF;
-  top: 41rem;
-  left: 25rem;
-  font-family: Arial, Helvetica, sans-serif;
-}
+ .header h1 {
+    color: #FFFFFF;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
 
-/* BERANDA END */
+ .header2 p {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ }   
 
 /* PROFIL */
 .judul3 {
