@@ -1,0 +1,390 @@
+/* BERANDA */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.back-logo {
+    background-color: #727D73;
+    width: 1440;
+    height: 100px;
+}
+
+.back-logo img {
+    position: absolute;
+    top: 18px;
+}
+ .tulisan {
+   position: relative;
+   left: 4rem;
+   top: ;
+ }
+.back-logo h2 {
+    color: #F0F0D7;
+<<<<<<< HEAD
+    position: absolute;
+    top: 1rem;
+    left: 5rem;
+=======
+>>>>>>> 5462bb2264ac5ec91d2b24a4fc5d46c43e7a7c01
+}
+
+.navbar {
+    background-color: #AAB99A;
+    width: 1440;
+    height: 50px;
+    position: relative;
+    top: -30px;
+}
+
+.ul-navbar {
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 100px;
+    margin: 60px;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+
+
+
+
+.g1{
+    position: relative;
+    top: -2rem;
+}
+
+.judul {
+    color: #F0F0D7;
+    position: absolute;
+    top: 29rem;
+    left: 38rem;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.judul2 {
+    color: #F0F0D7;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 34rem;
+    left: 31rem;
+}
+
+.g {
+    position: absolute;
+    text-align: center;
+    color: #FFFFFF;
+    top: 41rem;
+    left: 25rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* BERANDA END */
+
+.judul3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 30rem;
+    top: 70rem;
+}
+
+.wadah-kartu {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kartu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    height: 60vh;
+    width: 25vw;
+    box-shadow: 10px 10px 10px #727D73;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 25vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.card h3 {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card p {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .k1 { */
+    /* width: 390px; */
+    /* height: 600px; */
+    /* border-radius: 10px; */
+    /* border: 5px solid #727D73; */
+    /* background-color: #FFFFFF; */
+    /* position: absolute; */
+    /* top: 80rem; */
+    /* left: 35rem; */
+/* } */
+/*  */
+/* .k2 { */
+    /* width: 390px; */
+    /* height: 600px; */
+    /* border-radius: 10px; */
+    /* border: 5px solid #727D73; */
+    /* background-color: #FFFFFF; */
+    /* position: absolute; */
+    /* top: 80rem; */
+    /* left: 5rem; */
+/* } */
+/*  */
+/* .k3 { */
+    /* width: 390px; */
+    /* height: 600px; */
+    /* border-radius: 10px; */
+    /* border: 5px solid #727D73; */
+    /* background-color: #FFFFFF; */
+    /* position: absolute; */
+    /* top: 80rem; */
+    /* left: 65rem; */
+/* } */
+
+/* .g2 img{ */
+    /* position: absolute; */
+    /* top: 1284px; */
+    /* left: 565px; */
+    /* border-radius: 6px; */
+/* } */
+/*  */
+/* .g2 h2{ */
+    /* color: #727D73; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* position: relative; */
+    /* top: 35rem; */
+    /* left: 42rem; */
+/* } */
+/*  */
+/* .g2 h3{ */
+    /* color: #727D73; */
+    /* position: relative; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-size: 15px; */
+    /* top: 38rem; */
+    /* left: 36rem; */
+/* } */
+/*  */
+/* .g3 img { */
+    /* position: absolute; */
+    /* top: 1284px; */
+    /* left: 85px; */
+    /* border-radius: 6px; */
+/* } */
+/*  */
+/* .g3 h2 { */
+    /* color: #727D73; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* position: relative; */
+    /* top: 20rem; */
+    /* left: 11rem; */
+ /* } */
+/*  */
+ /* .g3 h3 { */
+    /* color: #727D73; */
+    /* position: relative; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-size: 15px; */
+    /* top: 23rem; */
+    /* left: 6rem; */
+ /* } */
+/*  */
+/* .g4 img { */
+    /* position: absolute; */
+    /* border-radius: 6px; */
+    /* left: 1045px; */
+    /* top: 1284px; */
+/* } */
+/*  */
+/* .g4 h2 { */
+    /* color: #727D73; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* position: relative; */
+    /* top: 6rem; */
+    /* left: 72rem; */
+/* } */
+/*  */
+/* .g4 h3 { */
+    /* color: #727D73; */
+    /* position: relative; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-size: 15px; */
+    /* top: 9rem; */
+    /* left: 66rem; */
+/* } */
+/*  */
+.judul4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    top: 125rem;
+    left: 40rem;
+}
+
+.buletin1 {
+    position: absolute;
+    top: 140rem;
+    left: 5rem;
+    border-radius: 10px;
+}
+
+.buletin1 h6 {
+    color: #727D73;
+    position: absolute;
+    /* top: 24rem; */
+    /* left: 1rem; */
+}
+
+.buletin1 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 4rem;
+    text-align: center;
+}
+
+.buletin2 {
+    position: absolute;
+    top: 140rem;
+    left: 35rem;
+    border-radius: 10px;
+}
+
+.buletin2 h6 {
+    color: #727D73;
+    position: absolute;
+    /* top: 24rem; */
+    /* left: 1rem; */
+}
+
+.buletin2 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 5rem;
+}
+
+.buletin3 {
+    position: absolute;
+    top: 140rem;
+    left: 65rem;
+    border-radius: 10px;
+}
+
+.buletin3 h6 {
+    color: #727D73;
+    position: absolute;
+    /* top: 24rem; */
+    /* left: 1rem; */
+}
+
+.buletin3 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 4rem;
+    text-align: center;
+}
+
+.buletin4 {
+    position: absolute;
+    top: 180rem;
+    left: 18rem;
+    border-radius: 10px;
+}
+
+.buletin4 h6 {
+    color: #727D73;
+    position: absolute;
+    /* top: 24rem; */
+    /* left: 1rem; */
+}
+
+.buletin4 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 3rem;
+    text-align: center;
+}
+.buletin5 {
+    position: absolute;
+    top: 180rem;
+    left: 52rem;
+    border-radius: 10px;
+}
+
+.buletin5 h6 {
+    color: #727D73;
+    position: absolute;
+}
+
+.buletin5 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 3rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

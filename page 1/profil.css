@@ -1,83 +1,93 @@
 /* BERANDA */
-* {
-  margin: 0;
-  padding: 0;
-}
-
 .back-logo {
-  background-color: #727D73;
-  width: 1440;
-  height: 100px;
-  padding: 15px;
+    background-color: #727D73;
+    width: 1440;
+    height: 100px; 
 }
 
 .logo {
-  position: absolute;
-  top: 18px;
+    position: absolute;
+    top: 18px;
 }
 
-.tulisan {
-  color: #F0F0D7;
-  position: absolute;
-  left: 4rem;
-  top: 2rem;
+.h2-logo {
+    color: #F0F0D7;
+    position: absolute;
+    padding: 20px;
+    left: 50px;
+    top: -5px;
 }
 
 .navbar {
-  background-color: #AAB99A;
-  width: 1440;
-  height: 50px;
-  position: relative;
-  top: -30px;
+    background-color: #AAB99A;
+    width: 1440;
+    height: 50px;
+    position: relative;
+    top: -30px;
 }
 
 .ul-navbar {
-  display: flex;
-  height: 55px;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
 }
 
 .li-navbar {
-  list-style-type: none;
-  padding: 100px;
-  margin: 60px;
-  color: #727D73;
-  font-family: Arial, Helvetica, sans-serif;
-}
+    list-style-type: none;
+    padding: 100px;
+    margin: 60px;
+    color: #334600;
+ }
+ 
+ #jadwal-sholat {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-gap: 1rem;
+    position: absolute;
+    width: 100%;
+    padding: 10px;
+    left: 55rem;
+    top: 1rem;
+  }
+  
+.jadwal-sholat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-color: #AAB99A;
+    backdrop-filter: blur(10px);
+    color: #334600;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+  }  
 
-.g1 {
-  position: absolute;
-  top: 9rem;
+.g1{
+    position: relative;
+    top: -2rem;
 }
 
 .judul {
-  color: #F0F0D7;
-  position: absolute;
-  top: 29rem;
-  left: 38rem;
-  font-size: 80px;
-  font-family: Arial, Helvetica, sans-serif;
+    color: #F0F0D7;
+    position: absolute;
+    top: 25rem;
+    left: 38rem;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .judul2 {
-  color: #F0F0D7;
-  font-size: 80px;
-  font-family: Arial, Helvetica, sans-serif;
-  position: absolute;
-  top: 34rem;
-  left: 31rem;
+    color: #F0F0D7;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30rem;
+    left: 31rem;
 }
-
-.tulisan2 {
-  position: absolute;
-  text-align: center;
-  color: #FFFFFF;
-  top: 41rem;
-  left: 25rem;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 /* BERANDA END */
 
 /* PROFIL */
@@ -85,13 +95,8 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-<<<<<<< HEAD
-    left: 33rem;
-    top: 80rem;
-=======
     left: 30rem;
     top: 70rem;
->>>>>>> bdbe0e082867b915d366e227be3749cff54434fc
 }
 
 .g2 {
@@ -99,6 +104,10 @@
   top: 80rem;
   left: 27rem;
 }
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> edf679c035bfa41d54bc2fc9691582dca913b8dd
 
 .judul4 {
   font-family: Arial, Helvetica, sans-serif;
@@ -108,8 +117,7 @@
   top: 120rem;
 }
 <<<<<<< HEAD
-=======
-                  
+
 .k1 {
   width: 350px;
   height: 120px;
@@ -120,7 +128,6 @@
   top: 140rem;
   left: 34rem;
 }
->>>>>>> bdbe0e082867b915d366e227be3749cff54434fc
 
 .g3 img {
   position: absolute;
@@ -322,62 +329,44 @@
 }
 
 .tugas1 {
-  position: relative;
-  top: -47rem;
-  
-}
-
-.y {
   font-family: Arial, Helvetica, sans-serif;
   color: #727D73;
   position: absolute;
-  top: 266rem;
-  left: 9rem;
+  top: 250rem;
+  left: 5rem;
 }
-
-.tugas2 {
-  position: relative;
-  top: 10rem;
  
-}
-
-.tugas3 {
-  position: relative;
-  top: 6rem;
-}
-
-
-.tugas4 {
-  position: relative;
-  top: 6rem;
-}
-
-.tugas5 {
-  position: relative;
-  top: -22rem;
-  left: 48rem;
-}
-
-.y1 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #727D73;
-  position: absolute;
-  top: 265rem;
-  left: 9rem;
-}
-
-.tugas6 {
-  position: relative;
-  top: 10rem;
-
-}
-
-.y2 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #727D73;
-  position: absolute;
-  top: 266rem;
-  left: 9rem;
+.tugas1 h4 {
+ font-family: Arial, Helvetica, sans-serif;
+ color: #727D73;
+ position: absolute;
+ top: 100rem;
+ left: 5rem;
 }
 
 
+=======
+<<<<<<< HEAD
+
+.k1 {
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 149rem;
+    left: 35rem;
+}
+
+.g3 img{
+    position: absolute;
+    top: 140rem;
+    left: 41rem;
+}
+
+.g3 h3 {
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+}
+>>>>>>> edf679c035bfa41d54bc2fc9691582dca913b8dd

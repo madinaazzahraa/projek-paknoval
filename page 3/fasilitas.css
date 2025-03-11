@@ -1,8 +1,14 @@
 /* BERANDA */
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .back-logo {
     background-color: #727D73;
     width: 1440;
-    height: 100px; 
+    height: 100px;
+    padding: 15px;
 }
 
 .logo {
@@ -10,12 +16,11 @@
     top: 18px;
 }
 
-.h2-logo {
+.tulisan {
     color: #F0F0D7;
     position: absolute;
-    padding: 20px;
-    left: 50px;
-    top: -5px;
+    left: 4rem;
+    top: 2rem;
 }
 
 .navbar {
@@ -37,57 +42,42 @@
     list-style-type: none;
     padding: 100px;
     margin: 60px;
-    color: #334600;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
  }
 
- #jadwal-sholat {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    grid-gap: 1rem;
+ .g1 {
     position: absolute;
-    width: 100%;
-    padding: 10px;
-    left: 45rem;
-    top: 1rem;
-  }
+    top: 9rem;
+ }
 
-  .jadwal-sholat {
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    justify-content: center;
-    align-items: center;
-    padding: 5px;
-    background-color: #AAB99A;
-    backdrop-filter: blur(10px);
-    color: #334600;
-    border-radius: 5px;
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-  }  
-
-  .g1{
-    position: relative;
-    top: -2rem;
-}
-
-.judul {
+ .judul {
     color: #F0F0D7;
     position: absolute;
-    top: 25rem;
+    top: 29rem;
     left: 38rem;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
-}
+ }
 
-.judul2 {
+ .judul2 {
     color: #F0F0D7;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
     position: absolute;
-    top: 30rem;
-    left: 30rem;
-}
+    top: 34rem;
+    left: 31rem;
+ }
+
+ .tulisan2 {
+    position: absolute;
+    text-align: center;
+    color: #FFFFFF;
+    top: 41rem;
+    left: 25rem;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+/* BERANDA END */
 
 .judul3 {
     font-family: Arial, Helvetica, sans-serif;
@@ -127,13 +117,13 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 90rem;
-    left: 6rem;
+    left: 3rem;
 }
 
 .g2 img{
     position: absolute;
     top: 1445px;
-    left: 101px;
+    left: 53px;
     border-radius: 6px;
 }
 
@@ -141,7 +131,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 12rem;
+    left: 10rem;
     top: 107rem;
     font-size:18px;
 }
@@ -154,14 +144,14 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 90rem;
-    left: 55rem;
+    left: 30rem;
 }
 
 .judul6{
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 58rem;
+    left: 33rem;
     top: 107rem;
     font-size:18px
 }
@@ -170,14 +160,14 @@
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     top: 36rem;
-    left: 6rem;
+    left: 4rem;
     font-size: 14px;
 }
 
 .g3 img{
     position: absolute;
     top: 1445px;
-    left: 885px;
+    left: 485px;
     border-radius: 6px;
 }
 
@@ -186,7 +176,7 @@
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     top: 26rem;
-    left: 55rem;
+    left: 30rem;
     font-size: 14px;
 }
 
@@ -199,14 +189,14 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 140rem;
-    left: 6rem;
+    top: 133rem;
+    left: 3rem;
 }
 
 .g4 img{
     position: absolute;
-    top: 2244px;
-    left: 101px;
+    top: 2132px;
+    left: 53px;
     border-radius: 6px;
 }
 
@@ -214,16 +204,16 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 14rem;
-    top: 157rem;
+    left: 12rem;
+    top: 150rem;
     font-size:18px;
 }
 .g4 h2{
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 64rem;
-    left: 6rem;
+    top: 56rem;
+    left: 4rem;
     font-size: 14px;   
 }
 
@@ -234,23 +224,23 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 140rem;
-    left: 55rem;
+    top: 90rem;
+    left: 57rem;
 }
 
 .judul8{
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 57rem;
-    top: 157rem;
+    left: 59rem;
+    top: 107rem;
     font-size:18px;   
 }
 
 .g5 img{
     position: absolute;
-    top: 2244px;
-    left: 885px;
+    top: 1445px;
+    left: 917px;
     border-radius: 6px;
 }
 
@@ -258,8 +248,8 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 57rem;
-    left: 55rem;
+    top: 5rem;
+    left: 57rem;
     font-size: 14px;   
 }
 
@@ -270,23 +260,23 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 189rem;
-    left:6rem;
+    top: 133rem;
+    left:30rem;
 }
 
 .judul9{
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 15rem;
-    top: 206rem;
+    left: 40rem;
+    top: 150rem;
     font-size:18px;   
 }
 
 .g6 img{
     position: absolute;
-    top: 3024px;
-    left: 101px;
+    top: 2133px;
+    left: 485px;
     border-radius: 6px;
 }
 
@@ -294,8 +284,8 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 95rem;
-    left: 6rem;
+    top: 46em;
+    left: 30rem;
     font-size: 14px;   
 }
 
@@ -305,7 +295,7 @@
     color: #727D73;
     position: absolute;
     left: 59rem;
-    top: 206rem;
+    top: 150rem;
     font-size:18px;   
 }
 
@@ -316,14 +306,14 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 189rem;
-    left: 55rem;
+    top: 133rem;
+    left: 57rem;
 }
 
 .g7 img{
     position: absolute;
-    top: 3024px;
-    left: 885px;
+    top: 2133px;
+    left: 917px;
     border-radius: 6px;
 }
 
@@ -331,8 +321,8 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 88rem;
-    left: 55rem;
+    top: 37em;
+    left: 57rem;
     font-size: 14px;   
 }
 
@@ -343,23 +333,23 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 236rem;
-    left:6rem;
+    top: 176rem;
+    left:10rem;
 }
 
 .judul11{
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 12rem;
-    top: 253rem;
+    left: 15rem;
+    top: 193rem;
     font-size:18px;   
 }
 
 .g8 img{
     position: absolute;
-    top: 3775px;
-    left: 101px;
+    top: 2821px;
+    left: 165px;
     border-radius: 6px;
 }
 
@@ -367,8 +357,8 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 128rem;
-    left: 6rem;
+    top: 69rem;
+    left: 10rem;
     font-size: 14px;   
 }
 
@@ -379,8 +369,8 @@
     border: 5px solid #727D73;
     background-color: #FFFFFF;
     position: absolute;
-    top: 236rem;
-    left:55rem;
+    top: 176rem;
+    left:45rem;
 }    
 
 .judul12{
@@ -394,8 +384,8 @@
 
 .g9 img{
     position: absolute;
-    top: 3775px;
-    left: 885px;
+    top: 2820px;
+    left: 725px;
     border-radius: 6px;
 }
 

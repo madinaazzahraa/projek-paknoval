@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.back-logo {
+    background-color: #727D73;
+    width: 1440;
+    height: 100px;
+    padding: 15px;
+}
+
+.logo {
+    position: absolute;
+    top: 18px;
+}
+
+.tulisan {
+    color: #F0F0D7;
+    position: absolute;
+    left: 4rem;
+    top: 2rem;
+}
+
+.navbar {
+    background-color: #AAB99A;
+    width: 1440;
+    height: 50px;
+    position: relative;
+    top: -30px;
+}
+
+.ul-navbar {
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 100px;
+    
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .g1 {
+    position: absolute;
+    top: 9rem;
+ }
+
+ .judul {
+    color: #F0F0D7;
+    position: absolute;
+    top: 29rem;
+    left: 38rem;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .judul2 {
+    color: #F0F0D7;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 34rem;
+    left: 31rem;
+ }
+
+ .tulisan2 {
+    position: absolute;
+    text-align: center;
+    color: #FFFFFF;
+    top: 41rem;
+    left: 25rem;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .judul3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 30rem;
+    top: 70rem;
+ }
+
+ .wadah-kartu {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 80rem;
+    left: 2rem;
+ }
+
+ .kartu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+ .card {
+    height: 60vh;
+    width: 25vw;
+    box-shadow: 10px 10px 10px #727D73;
+    margin: 50px;
+    border-radius: 10px;
+ }
+
+ .card img {
+    width: 25vw;
+    height: 30vh;
+    border-radius: 10px;
+ }
+
+ .card h3 {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .card p {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .judulpapat {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    
+    
+ }
+
+ .buletin1 {
+    position: absolute;
+    top: 135rem;
+    left: 5rem;
+    border-radius: 10px;
+ }
+
+ .buletin1 h6 {
+    color: hsl(125, 5%, 47%);
+    position: absolute;
+}
+
+.buletin1 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 3rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buletin2 {
+    position: absolute;
+    top: 135rem;
+    left: 35rem;
+    border-radius: 10px;
+}
+
+.buletin2 h6 {
+    color: #727D73;
+    position: absolute;
+}
+
+.buletin2 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buletin3 {
+    position: absolute;
+    top: 135rem;
+    left: 65rem;
+    border-radius: 10px;
+}
+
+.buletin3 h6 {
+    color: #727D73;
+    position: absolute;
+}
+
+.buletin3 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 4rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buletin4 {
+    position: absolute;
+    top: 170rem;
+    left: 18rem;
+    border-radius: 10px;
+}
+
+.buletin4 h6 {
+    color: #727D73;
+    position: absolute;
+}
+
+.buletin4 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 3rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buletin5 {
+    position: absolute;
+    top: 170rem;
+    left: 52rem;
+}
+
+.buletin5 h6 {
+    color: #727D73;
+    position: absolute;
+}
+
+.buletin5 h3 {
+    color: #727D73;
+    position: absolute;
+    top: 27rem;
+    left: 3rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
