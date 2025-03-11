@@ -1,4 +1,4 @@
-{
+* {
     margin: 0;
     padding: 0;
 }
@@ -46,9 +46,15 @@
 .li-navbar {
     list-style-type: none;
     padding: 100px;
-    
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .beranda {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
  }
 
  .beranda img {
@@ -69,13 +75,45 @@
  }
 
  .header h1 {
-    color: #FFFFFF;
-    font-size: 80px;
-    font-family: Arial, Helvetica, sans-serif;
- }
+   color: #FFFFFF;
+   font-size: 80px;
+   font-family: Arial, Helvetica, sans-serif;
+}
 
- .header2 p {
+ .header p {
     color: #FFFFFF;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
  }
+
+ .kartu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+
+ .card {
+    height: 65vh;
+    width: 20vw;
+    box-shadow: 10px 10px 10px #727D73;
+    margin: 50px;
+    border-radius: 10px;
+ }
+
+ .card img {
+    width: 20vw;
+    height: 30vh;
+    border-radius: 10px;
+ }
+ 
+ .card p {
+    text-align: center;
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+.penjelasan {
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;  
+    text-align: center;
+}

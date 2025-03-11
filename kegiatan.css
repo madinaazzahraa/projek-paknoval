@@ -105,9 +105,3 @@
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
  }
-
- .buletin {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
- }
