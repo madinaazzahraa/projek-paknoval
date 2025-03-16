@@ -112,3 +112,66 @@
    flex-wrap: wrap;
    justify-content: center;
  }
+
+ /* FOOTER */
+
+ .body {
+   background-color: #727D73;
+   width: 100%;
+   height: 395px;
+}
+
+.maps {
+   position: absolute;
+   top: 199.5rem;
+   left: 49rem;
+}
+
+.logo img {
+   position: absolute;
+   top: 196.5rem;
+   left: 1rem;
+}
+
+.text-right {
+   text-align: right;
+   position: absolute;
+   top: 198.5rem;
+   left: 6rem;
+ }
+
+ .alamat {
+   position: absolute;
+   top: 202rem;
+   left: 5.8rem;
+}
+
+.icon img {
+   position: absolute;
+   top: 212rem;
+   left: 6rem;
+}
+
+.icon h5 {
+   position: absolute;
+   top: 211.7rem;
+   left: 8rem;
+}
+
+.icon2 img {
+   position: absolute;
+   top: 215rem;
+   left: 5.8rem;
+}
+
+.icon2 h5 {
+   position: absolute;
+   top: 214.9rem;
+   left: 8rem;
+}
+
+.Copyright {
+   position: absolute;
+   top: 219.5rem;
+   left: 30rem;
+}

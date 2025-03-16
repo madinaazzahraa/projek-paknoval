@@ -120,68 +120,65 @@
    width: 100%;
    height: 395px;
 }
+
 .maps {
    position: absolute;
-   top: 195rem;
-   left: 51rem;
+   top: 193.5rem;
+   left: 49rem;
 }
 
 .logo img {
    position: absolute;
-   top: 192rem;
-   left: 1.5rem;
+   top: 190.5rem;
+   left: 1rem;
 }
 
-.logo h1 {
+ .text-right {
+   text-align: right;
    position: absolute;
-   top: 190rem;
+   top: 192.6rem;
    left: 6rem;
-}
+ }
+ 
 .alamat {
    position: absolute;
-   top: 200rem;
+   top: 197rem;
    left: 5.8rem;
-}
-
-.alamat h5 {
-   position: absolute;
-   top: 200rem;
-   left: 1rem;
 }
 
 .icon img {
    position: absolute;
-   top: 209rem;
+   top: 207rem;
    left: 6rem;
 }
 
 .icon h5 {
    position: absolute;
-   top: 209rem;
+   top: 206.8rem;
    left: 8rem;
 }
 
 .icon2 img {
    position: absolute;
-   top: 211rem;
+   top: 209.8rem;
    left: 5.8rem;
 }
 
 .icon2 h5 {
    position: absolute;
-   top: 211rem;
+   top: 209.7rem;
    left: 8rem;
 }
 
-.anggota {
+/* .anggota {
    position: absolute;
-   top: 195rem;
-   left: 30.8rem;
+   top: 268rem;
+   left: 38rem;
 
-}
+} */
 
-.Copyright {
-   position: absolute;
-   top: 213rem;
-   left: 30rem;
-}
+   .Copyright {
+      position: absolute;
+      top: 213.5rem;
+      left: 30rem;
+   }
